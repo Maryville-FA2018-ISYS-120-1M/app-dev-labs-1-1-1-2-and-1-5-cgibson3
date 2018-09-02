@@ -10,14 +10,14 @@ print("How to use playgrounds to make writing Swift fun and simple")
 /*:
  Now print your own phrases to the console. Pick one of your favorite songs. Use your knowledge of the `print` function to display the song title and artist.
  */
-
+print("Lucid Dreams by Juice WRLD")
 
 /*:
  Use multiple `print` functions to write out some of the lyrics to the song.
  */
-
-
-
+print("I still see your shadows in my room")
+print("can't take back the love that i gave you")
+print("It's at the point where i love and I hate you")
 /*:
  
  _Copyright © 2017 Apple Inc._
